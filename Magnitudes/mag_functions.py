@@ -6,6 +6,8 @@ Created on 1st March 2020 by Antony Butcher
 This module contains a series of functions required to
 model source spectra and estimate MW and ML 
 
+this is a test
+
 """
 
 def latlong_distn(lat1, long1, lat2, long2):
